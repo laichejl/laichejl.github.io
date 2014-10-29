@@ -1,0 +1,50 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+/**** Changing Background of jumbotron for seperate pages **/
+	.homepage .jumbotron {
+		background-image: url('../images/homepage.png');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center center;
+	}
+
+	.portfolio .jumbotron {
+		background-image: url('../images/code.png');
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center center;
+		opacity: 0.75;
+	}
+
+	.portfolio .jumbotron h2, .portfolio .jumbotron p {
+		color: white;
+		text-shadow: 0px 0px 7px rgba(0, 0, 0, 1);
+		opacity: 1;
+	}
+
+	#homepage_content {
+		margin-bottom: 100px;
+	}
+
+	#portfolio_content {
+		margin-bottom: 100px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

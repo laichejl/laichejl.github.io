@@ -1,0 +1,31 @@
+- name: Basic HTML
+  filename: basichtml.html
+  imageurl: 
+
+- name: Bootstrap
+  filename: bootstrap.html
+
+- name: DITA Breakfast
+  filename: breakfast.html
+
+- name: CodePen Interface Analysis
+  filename: codepen.html
+
+- name: Hamilton Beach Microwave SOP
+  filename: microwave.html
+
+- name: Game of Thrones Remix
+  filename: remixastory.html
+
+- name: Sass Blog Article
+  filename: sass.html
+
+- name: Wordpress Blog
+  filename: wordpress_dm.html
+
+- name: Wordpress
+  filename: wordpress.html
+
+- name: XML vs JSON article
+  filename: xmljson.html
+
