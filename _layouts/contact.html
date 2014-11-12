@@ -16,59 +16,35 @@
 
         <script src="{{ site.baseurl }}js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
-    <body class="homepage">
+    <body class="contact">
         <!--[if lt IE 7]>
             <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
-    <!-- Arrow for scrolling to next section -->
     <div class="jumbotron">
-      <div class="container">
+      <div class="container content">
         <div class="triangle">
-          <h3>Jay Laiche</h3>
+            <h3>Get in touch</h3>
         </div>
       </div>
     </div>
 
-
-    <div id="homepage_content" class="container content">
+    <div id="portfolio_content" class="container">
         <div class="row">
-          <div class="col-md-6" id="name">
-            <h1>Hi, I'm Jay Laiche.</h1>
-            <h2>And I'm a <span class="developer">Web Developer</span> & <span class="designer">Designer</span>.</h2>
+          <div class="col-md-12">
+            {{ content }}
           </div>
-          <div class="col-md-6" id="skills">
-            Web Dev & Designer Images goes here
-          </div>
-        </div>
-
-        <div class="row">
-          <div class="col-md-12" id="skills">
-            <h3>Specializing In:</h3>
-            <h4><span class="developer">HTML</span> - <span class="developer">CSS/SASS</span> - <span class="developer">JS/JQUERY</span> - <span class="developer">WORDPRESS</span> - <span class="developer">PHP</span> - <span class="developer">MYSQL</span> - <span class="developer">UNIX</span> - <span class="designer">PHOTOSHOP/ILLUSTRATOR</span> - <span class="designer">USER EXPERIENCE</span> - <span class="designer">INTERACTION DESIGN</span></h4>
-          </div>
-        </div>
-      
-
-      <hr>
-
-      <div class="row">
-        <div class="col-md-12" id="aboutme">
-          <p>I'm a soon to be graduate of Virginia Tech, from which I will leave and work as a Wordpress developer in Richmond, Virginia. I also dabble in graphic design and web/mobile app development. When I'm not glued to a computer screen, I like to rock climb, find new music to listen to, snowboard if the seasons allow, and when I can, travel. </p>
-          <p>The following site is a portfolio of my academic work throughout my years at Virginia Tech. </p>
-        </div>
-      </div>
+        </div>  
     </div>
 
       {% include nav.html %}
-
-      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+      
+       <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="{{ site.basurl }}js/vendor/jquery-1.11.1.min.js"><\/script>')</script>
 
         <script src="{{ site.baseurl }}js/vendor/bootstrap.min.js"></script>
         <script src="{{ site.baseurl }}js/vendor/waypoints.js"></script>
-        <script src="{{ site.baseurl }}js/vendor/smooth-scroll.js"></script>
         <script src="{{ site.baseurl }}js/main.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
