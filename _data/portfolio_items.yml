@@ -1,6 +1,5 @@
 - name: Basic HTML
   filename: basichtml.html
-  imageurl: 
 
 - name: Bootstrap
   filename: bootstrap.html
@@ -11,8 +10,8 @@
 - name: CodePen Interface Analysis
   filename: codepen.html
 
-- name: Hamilton Beach Microwave SOP
-  filename: microwave.html
+- name: Shred The Gnar Wordpress Theme
+  filename: shred.html
 
 - name: Game of Thrones Remix
   filename: remixastory.html
@@ -20,8 +19,8 @@
 - name: Sass Blog Article
   filename: sass.html
 
-- name: Wordpress Blog
-  filename: wordpress_dm.html
+- name: KVB Responsiveness
+  filename: kvb.html
 
 - name: Wordpress
   filename: wordpress.html

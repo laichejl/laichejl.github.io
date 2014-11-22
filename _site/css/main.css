@@ -5,32 +5,29 @@
    ========================================================================== */
 
 /**** Changing Background of jumbotron for seperate pages **/
-	.homepage .jumbotron {
-		background-image: url('../images/homepage_bg.png');
+	.jumbotron {
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center center;
+	}
+	.homepage .jumbotron {
+		background-image: url('../images/homepage_bg.png');
 	}
 
 	.portfolio .jumbotron {
 		background-image: url('../images/code_bg.png');
-		background-repeat: no-repeat;
-		background-size: cover;
-		background-position: center center;
 	}
 
 	.personal .jumbotron {
 		background-image: url('../images/personal_bg.png');
-		background-repeat: no-repeat;
-		background-size: cover;
-		background-position: center center;
 	}
 
 	.contact .jumbotron {
 		background-image: url('../images/contact.png');
-		background-repeat: no-repeat;
-		background-size: cover;
-		background-position: center center;
+	}
+
+	.resume .jumbotron {
+		background-image: url('../images/resume.png');
 	}
 
 	.jumbotron .triangle {
@@ -98,6 +95,24 @@
 		-webkit-transition: 2s;
 		color: blue;
 	}
+
+	div.pageBleed {
+		margin-bottom: 200px;
+	}
+
+	h2#resHead {
+		font-size: 80px;
+	}
+
+	.resume .triangle h3 {
+		bottom: -4em;
+		right: 2.1em;
+	}
+
+	div.xp {
+		padding-top: 20px;
+	}
+
 
 
 

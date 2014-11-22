@@ -1,7 +1,4 @@
 $(document).ready(function() {
-  $('[data-toggle=offcanvas]').click(function() {
-    $('.row-offcanvas').toggleClass('active');
-  });
 
 // Colors on Hover
   $('h2 span.developer').hover(function(){
@@ -27,6 +24,8 @@ $(document).ready(function() {
 		$('.content').css({height: $winHeight});
 
 	});
+
+
 
 
 

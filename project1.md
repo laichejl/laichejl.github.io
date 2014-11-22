@@ -5,20 +5,78 @@ image:
 ---
 ### Objective
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Web developer, designer and content developer with emphasis on user-experience and interaction design seeking opportunities to build beautiful and effective websites and web applications. 
 
 ### Education
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores sapiente beatae illo culpa veniam id facere, a maxime nesciunt ullam dicta modi aspernatur, incidunt quo ad aut ipsam tempore. Qui.
+Virginia Tech, 2011-2014
+
+BA in Professional Writing, Specialization in Web Development & Interaction Design
+
+Minor in Mass Communications
 
 ### Skills
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae assumenda provident omnis neque ea a eligendi vel eius aspernatur blanditiis et porro, quo aliquid commodi natus excepturi consectetur facilis autem.
+
+####Development
+
+Languages: HTML5, CSS3 (Sass, Compass), JavaScript (jQuery), PHP, MySQL, Python
+
+Environments: MAMP, LAMP
+
+Specializations: Wordpress Development
+
+####Design
+
+Programs: Photoshop, Illustrator, InDesign, Sketch, Balsamiq
+
+Specializations: Mobile/Web Prototyping, User-Testing
+
 
 ### Experience
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet enim corporis velit, consectetur aspernatur optio maiores expedita ea, explicabo fugit, fuga minima a debitis reiciendis, vitae quaerat eius numquam. Sed?
+#### Web Developer - Rocket Pop Media
+
+Richmond, VA -- May 2014 - Present
+
++ Programs dynamic, responsive, custom theme Wordpress websites for a variety of clients
++ Manages Rackspace servers running Nginx configuration, launching various sites from development to live
++ Maintains MySQL databases for active sites
++ Contributes with graphic design, copywriting, prototyping
++ Took over as temporary lead developer halfway through internship
+
+
+
+
+#### Web Developer, Project Manager - Fraiche
+
+Remote - September 2012 - Present
+
++ Develops personalized, responsive websites for a variety of clients
++ Manages sites DNS configurations and hosting plans
++ Assists with client communication and teaches basic HTML and site editing
+
+
+
+
+#### Creative Director - WhiteRaverRafting.com
+
+Remote - April 2013 - April 2014
+
++ Site administrator for online music website accumulating over 1 million pageviews per month
++ Designed all graphics for website and assisted in site development and maintenance
++ Bootstrapped media property growing ~16%/month through SEO practices and social media marketing
++ Trained new team members on Wordpress, HTML, Photoshop, SEO
+
+#### Creative Content Intern - IDD, Inc.
+
+Blacksburg, VA - Fall Semester 2013
+
++ Designed visual and written copy for IDD's brand
++ Assisted in graphic design, SEO, user-testing
 
 ### Accolades
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus, nihil, vitae. Ad, ea, ullam? Soluta ipsam nam officiis, praesentium quae sint consectetur. Hic, similique ea quae itaque illum inventore nesciunt!
++ Dean's List - Fall Semester 2012 - Present
++ Kendrick B. Melrose Scholarship Recepient - 2011, 2012, 2013, 2014
++ Sigma Tau Delta Honors Society - Member
