@@ -113,6 +113,26 @@
 		padding-top: 20px;
 	}
 
+	body.port_item div#name p {
+		font-size: 18px;
+	}
+
+	div.well {
+		background-image: none;
+		background-color: white;
+		border: 0;
+		box-shadow: none;
+		-webkit-box-shadow: none;
+	}
+
+	legend {
+		border-bottom: 0;
+	}
+
+	.contact button {
+		width: 100%;
+	}
+
 
 
 
