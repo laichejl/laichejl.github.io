@@ -2,6 +2,7 @@
 layout: port_item
 title: Shred the Gnar Wordpress Theme
 image: images/shred_port.png
+link: http://www.shredthegnarnc.com/
 ---
 
 ## Shred the Gnar Wordpress Theme

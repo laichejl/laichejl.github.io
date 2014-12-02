@@ -13,7 +13,7 @@
           <ul class="navbar-nav nav navbar-right">
           	{% for topic in site.data.topics %}
 
-          	<li>
+          	<li id="{{ topic.topic }}">
           		<a href="{{ topic.filename }}">{{ topic.topic }}</a>
           	</li>
 

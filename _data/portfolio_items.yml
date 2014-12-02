@@ -1,5 +1,6 @@
 - name: Basic HTML
   filename: basichtml.html
+  link: 
 
 - name: Bootstrap
   filename: bootstrap.html
@@ -9,21 +10,27 @@
 
 - name: CodePen Interface Analysis
   filename: codepen.html
+  link: http://blogs.lt.vt.edu/laiche/interrogate-an-interface/
 
 - name: Shred The Gnar Wordpress Theme
   filename: shred.html
+  link: http://www.shredthegnarnc.com/
 
 - name: Game of Thrones Remix
   filename: remixastory.html
+  link: http://westerosnet.jaylaiche.com/
 
 - name: Sass Blog Article
   filename: sass.html
+  link: 
 
 - name: KVB Responsiveness
   filename: kvb.html
+  link: http://www.keepvabeautiful.org/
 
 - name: Wordpress
   filename: wordpress.html
+  link: http://www.talloaks.topher23.com/
 
 - name: XML vs JSON article
   filename: xmljson.html

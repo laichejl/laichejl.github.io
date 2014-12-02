@@ -2,6 +2,7 @@
 layout: port_item
 title: Game of Thrones Web Remix
 image: images/remix.png
+link: http://westerosnet.jaylaiche.com/
 ---
 
 ## Game of Thrones Web Remix

@@ -39,6 +39,10 @@
 		margin: 0 auto;
 	}
 
+	.resume .jumbotron .triangle {
+		border-bottom: 250px solid lightslategrey;
+	}
+
 	.jumbotron .triangle h3 {
 		position: relative;
 		bottom: -3em;
@@ -131,6 +135,110 @@
 
 	.contact button {
 		width: 100%;
+	}
+
+	.navbar {
+		background-color: white;
+	}
+
+	.homepage .navbar-inverse {
+		border-top: 2px solid sienna;
+	}
+
+	.homepage .navbar-inverse a {
+		color: sienna !important;
+	}
+
+	.resume .navbar-inverse a {
+		color: lightslategrey !important;
+	}
+
+	.portfolio .navbar-inverse a {
+		color: #424a63 !important;
+	}
+
+	.personal .navbar-inverse a {
+		color: #62bce4 !important;
+	}
+
+	.contact .navbar-inverse a {
+		color: #b4a162 !important;
+	}
+
+	.resume .navbar-inverse {
+		border-top: 2px solid lightslategrey;
+	}
+
+	.portfolio .navbar-inverse {
+		border-top: 2px solid #424a63;
+	}
+
+	.personal .navbar-inverse {
+		border-top: 2px solid #62bce4;
+	}
+
+	.contact .navbar-inverse {
+		border-top: 2px solid #b4a162;
+	}
+
+	.contact div.well {
+		background-color: #b4a162;
+	}
+
+	h1, h2, h3, h4 {
+		font-family: 'courier', serif;
+	}
+
+	.homepage .triangle h3 {
+		color: sienna;
+	}
+
+	body.homepage {
+		background-color: sienna;
+		color: white;
+	}
+
+	.resume .triangle h3 {
+		color: white;
+	}
+
+	body.resume {
+		background-color: lightslategrey;
+		color: white;
+	}
+
+	.portfolio .triangle h3 {
+		color: #424a63;
+	}
+
+	body.portfolio {
+		background-color: #424a63;
+		color: white;
+	}
+
+	.personal .triangle h3 {
+		color: #62bce4;
+	}
+
+	body.personal {
+		background-color: #62bce4;
+		color: white;
+	}
+
+	.contact .triangle h3 {
+		color: #b4a162;
+	}
+
+	body.contact {
+		background-color: #b4a162;
+		color: white;
+	}
+
+	div#name a {
+		display: block;
+		text-align: center;
+		text-transform: uppercase;
+		font-size: 36px;
 	}
 
 
