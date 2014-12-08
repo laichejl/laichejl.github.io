@@ -3,7 +3,7 @@ author: Jay Laiche
 markdown: kramdown
 safe: true
 lsi: true
-baseurl: ""
+baseurl: "laichejl.github.io"
 
 
 kramdown:
