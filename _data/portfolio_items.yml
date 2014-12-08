@@ -1,37 +1,40 @@
 - name: Basic HTML
   filename: basichtml.html
-  link: 
+  sdesc: A basic website made with HTML and CSS
 
 - name: Bootstrap
   filename: bootstrap.html
+  sdesc: A website created using the Bootstrap front-end framework
 
 - name: DITA Breakfast
   filename: breakfast.html
+  sdesc: A guide to creating breakfast written using the DITA framework
 
 - name: CodePen Interface Analysis
   filename: codepen.html
-  link: http://blogs.lt.vt.edu/laiche/interrogate-an-interface/
+  sdesc: A critique of the CodePen.io web interface
 
 - name: Shred The Gnar Wordpress Theme
   filename: shred.html
-  link: http://www.shredthegnarnc.com/
+  sdesc: A custom Wordpress theme 
 
 - name: Game of Thrones Remix
   filename: remixastory.html
-  link: http://westerosnet.jaylaiche.com/
+  sdesc: A mock-chatroom website 
 
 - name: Sass Blog Article
   filename: sass.html
-  link: 
+  sdesc: A blog article about the Sass CSS preprocessor
 
 - name: KVB Responsiveness
   filename: kvb.html
-  link: http://www.keepvabeautiful.org/
+  sdesc: Taking a static site and making it responsive
 
 - name: Wordpress
   filename: wordpress.html
-  link: http://www.talloaks.topher23.com/
+  sdesc: A intermediate Wordpress client project
 
 - name: XML vs JSON article
   filename: xmljson.html
+  sdesc: An article comparing XML and JSON data-interchange formats
 

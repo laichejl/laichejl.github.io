@@ -100,8 +100,12 @@
 		color: blue;
 	}
 
-	div.pageBleed {
+	div#resume_content {
 		margin-bottom: 200px;
+	}
+
+	div.res_link {
+		margin-top: 50px;
 	}
 
 	h2#resHead {
@@ -110,7 +114,11 @@
 
 	.resume .triangle h3 {
 		bottom: -4em;
-		right: 2.1em;
+		right: 1.75em;
+	}
+
+	.contact .triangle h3 {
+		bottom: -2.5em;
 	}
 
 	div.xp {
@@ -240,6 +248,146 @@
 		text-transform: uppercase;
 		font-size: 36px;
 	}
+
+	h3.social {
+		text-align: center;
+	}
+
+	h3.social a {
+		color: white !important;
+	}
+
+	h3.resume_pdf {
+		text-align: center;
+	}
+
+	h3.resume_pdf a {
+		color: white !important;
+	}
+
+	body.basichtml .navbar-inverse .navbar-brand {
+		color: #93c54b;
+	}
+
+	body.bootstrap {
+		background-color: #252525;
+		color: white;
+	}
+
+	body.bootstrap a {
+		color: white !important;
+	}
+
+	body.bootstrap .navbar-inverse {
+		background-color: #252525;
+		color: white;
+		border-color: white;
+	}
+
+	body.breakfast {
+		color: black;
+	}
+
+	body.breakfast a {
+		color: black !important;
+	}
+
+	body.breakfast .navbar-inverse {
+		border-color: black;
+	}
+
+	body.codepen {
+		background-color: black;
+		color: white;
+	}
+
+	body.codepen a {
+		color: white !important;
+	}
+
+	body.codepen .navbar-inverse {
+		background-color: black;
+		border-color: white;
+	}
+
+	body.shred {
+		background-color: #99e37f;
+		color: white;
+	}
+
+	body.shred a {
+		color: white !important;
+	}
+
+	body.shred .navbar-inverse {
+		background-color: #99e37f;
+		border-color: white;
+	}
+
+	body.remix {
+		background-color: #cccccc;
+		color: #31069d;
+	}
+
+	body.remix a {
+		color: #31069d !important;
+	}
+
+	body.remix .navbar-inverse {
+		background-color: #cccccc;
+		border-color: #31069d;
+	}
+
+	body.sass {
+		background-color: #f2f2f2;
+		color: black;
+	}
+
+	body.sass a {
+		color: black !important;
+	}
+
+	body.sass .navbar-inverse {
+		background-color: #f2f2f2;
+		border-color: black;
+	}
+
+	body.kvb {
+		background-color: #c8e0eb;
+		color: #002c5f;
+	}
+
+	body.kvb a {
+		color: #002c5f !important;
+	}
+
+	body.kvb .navbar-inverse {
+		background-color: #c8e0eb;
+		border-color: #002c5f;
+	}
+
+	body.wordpress {
+		color: #2b522e;
+	}
+
+	body.wordpress a {
+		color: #2b522e !important;
+	}
+
+	body.wordpress .navbar-inverse {
+		background-color: white;
+		border-color: #2b522e;
+	}
+
+	body.xmljson a {
+		color: black !important;
+	}
+
+	body.xmljson .navbar-inverse {
+		border-color: black;
+	}
+
+
 
 
 

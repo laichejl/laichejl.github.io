@@ -3,6 +3,7 @@ layout: port_item
 title: Basic Wordpress Site
 image: images/talloaks.png
 link: http://www.talloaks.topher23.com/
+class: wordpress
 ---
 
 ## Tall Oaks Montessori

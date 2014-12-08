@@ -2,6 +2,7 @@
 layout: port_item
 title: Basic HTML & CSS
 image: images/basichtml.png
+class: basichtml
 ---
 
 ## Basic HTML & CSS Site

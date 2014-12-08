@@ -3,6 +3,7 @@ layout: port_item
 title: KVB Responsive
 image: images/kvb_port_v1.png
 link: http://www.keepvabeautiful.org/
+class: kvb
 ---
 
 ## KVB Responsive

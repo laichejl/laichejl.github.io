@@ -2,6 +2,7 @@
 layout: port_item
 title: XML vs JSON Study
 image: images/xmljson.png
+class: xmljson
 ---
 
 ## XML vs JSON - Data Interchange
